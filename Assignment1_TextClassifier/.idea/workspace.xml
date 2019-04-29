@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cf523b0-1492-4cfe-b9e3-cefb43b7833d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TextClassifier$hw2_skeleton.coverage" NAME="hw2_skeleton Coverage Results" MODIFIED="1550292460763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="hw2_skeleton.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw2_skeleton.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3364">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <element signature="e#979#1327#0" expanded="false" />
+                <element signature="e#1900#2041#0" expanded="false" />
+                <element signature="e#2130#2338#0" expanded="false" />
+                <element signature="e#2340#2380#0" expanded="false" />
+                <element signature="e#2469#2809#0" expanded="false" />
+                <element signature="e#2922#3045#0" expanded="false" />
+                <element signature="e#3109#3545#0" expanded="false" />
+                <element signature="e#3673#3807#0" expanded="false" />
+                <element signature="e#3956#4196#0" expanded="false" />
+                <element signature="e#4311#4461#0" expanded="false" />
+                <element signature="e#4647#5882#0" expanded="false" />
+                <element signature="e#5884#5920#0" expanded="false" />
+                <element signature="e#5998#6260#0" expanded="false" />
+                <element signature="e#6551#6796#0" expanded="false" />
+                <element signature="e#6920#7184#0" expanded="false" />
+                <element signature="e#7262#8654#0" expanded="false" />
+                <element signature="e#8775#9589#0" expanded="false" />
+                <element signature="e#9725#10637#0" expanded="false" />
+                <element signature="e#10819#11757#0" expanded="false" />
+                <element signature="e#12099#14198#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="6" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="4" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>feature matrix</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/tune.py" />
+        <option value="$PROJECT_DIR$/tune.py" />
+        <option value="$PROJECT_DIR$/backup.py" />
+        <option value="$PROJECT_DIR$/feature.py" />
+        <option value="$PROJECT_DIR$/tools.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/syllables.py" />
+        <option value="$PROJECT_DIR$/features.py" />
+        <option value="$PROJECT_DIR$/Result.txt" />
+        <option value="$PROJECT_DIR$/models.py" />
+        <option value="$PROJECT_DIR$/hw2_skeleton.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="403" />
+    <option name="y" value="76" />
+    <option name="width" value="1313" />
+    <option name="height" value="830" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TextClassifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TextClassifier" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.hw2_skeleton">
+    <configuration name="hw2_skeleton" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TextClassifier" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw2_skeleton.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.hw2_skeleton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cf523b0-1492-4cfe-b9e3-cefb43b7833d" name="Default" comment="" />
+      <created>1550005413216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550005413216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10989583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hw2_skeleton.py</url>
+          <line>11</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hw2_skeleton.py</url>
+          <line>226</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hw2_skeleton.py</url>
+          <line>283</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hw2_skeleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#979#1327#0" expanded="false" />
+            <element signature="e#1900#2041#0" expanded="false" />
+            <element signature="e#2130#2338#0" expanded="false" />
+            <element signature="e#2340#2380#0" expanded="false" />
+            <element signature="e#2469#2809#0" expanded="false" />
+            <element signature="e#2922#3045#0" expanded="false" />
+            <element signature="e#3109#3545#0" expanded="false" />
+            <element signature="e#3673#3807#0" expanded="false" />
+            <element signature="e#3956#4196#0" expanded="false" />
+            <element signature="e#4311#4461#0" expanded="false" />
+            <element signature="e#4647#5882#0" expanded="false" />
+            <element signature="e#5884#5920#0" expanded="false" />
+            <element signature="e#5998#6260#0" expanded="false" />
+            <element signature="e#6551#6796#0" expanded="false" />
+            <element signature="e#6920#7184#0" expanded="false" />
+            <element signature="e#7262#8654#0" expanded="false" />
+            <element signature="e#8775#9589#0" expanded="false" />
+            <element signature="e#9725#10637#0" expanded="false" />
+            <element signature="e#10819#11757#0" expanded="false" />
+            <element signature="e#12099#14198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_skeleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4582">
+          <caret line="416" column="24" lean-forward="false" selection-start-line="416" selection-start-column="24" selection-end-line="416" selection-end-column="24" />
+          <folding>
+            <element signature="e#979#1327#0" expanded="false" />
+            <element signature="e#1900#2041#0" expanded="false" />
+            <element signature="e#2130#2338#0" expanded="false" />
+            <element signature="e#2340#2380#0" expanded="false" />
+            <element signature="e#2469#2809#0" expanded="false" />
+            <element signature="e#2922#3045#0" expanded="false" />
+            <element signature="e#3109#3545#0" expanded="false" />
+            <element signature="e#3673#3807#0" expanded="false" />
+            <element signature="e#3956#4196#0" expanded="false" />
+            <element signature="e#4311#4461#0" expanded="false" />
+            <element signature="e#4647#5882#0" expanded="false" />
+            <element signature="e#5884#5920#0" expanded="false" />
+            <element signature="e#5998#6260#0" expanded="false" />
+            <element signature="e#6551#6796#0" expanded="false" />
+            <element signature="e#6920#7184#0" expanded="false" />
+            <element signature="e#7262#8654#0" expanded="false" />
+            <element signature="e#8775#9589#0" expanded="false" />
+            <element signature="e#9725#10637#0" expanded="false" />
+            <element signature="e#10819#11757#0" expanded="false" />
+            <element signature="e#12099#14198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="68" column="26" lean-forward="false" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1015">
+          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_skeleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#979#1327#0" expanded="false" />
+            <element signature="e#1900#2041#0" expanded="false" />
+            <element signature="e#2130#2338#0" expanded="false" />
+            <element signature="e#2340#2380#0" expanded="false" />
+            <element signature="e#2469#2809#0" expanded="false" />
+            <element signature="e#2922#3045#0" expanded="false" />
+            <element signature="e#3109#3545#0" expanded="false" />
+            <element signature="e#3673#3807#0" expanded="false" />
+            <element signature="e#3956#4196#0" expanded="false" />
+            <element signature="e#4311#4461#0" expanded="false" />
+            <element signature="e#4647#5882#0" expanded="false" />
+            <element signature="e#5884#5920#0" expanded="false" />
+            <element signature="e#5998#6260#0" expanded="false" />
+            <element signature="e#6551#6796#0" expanded="false" />
+            <element signature="e#6920#7184#0" expanded="false" />
+            <element signature="e#7262#8654#0" expanded="false" />
+            <element signature="e#8775#9589#0" expanded="false" />
+            <element signature="e#9725#10637#0" expanded="false" />
+            <element signature="e#10819#11757#0" expanded="false" />
+            <element signature="e#12099#14198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syllables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup.py" />
+    <entry file="file://$PROJECT_DIR$/Result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="20" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_skeleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#979#1327#0" expanded="false" />
+            <element signature="e#1900#2041#0" expanded="false" />
+            <element signature="e#2130#2338#0" expanded="false" />
+            <element signature="e#2340#2380#0" expanded="false" />
+            <element signature="e#2469#2809#0" expanded="false" />
+            <element signature="e#2922#3045#0" expanded="false" />
+            <element signature="e#3109#3545#0" expanded="false" />
+            <element signature="e#3673#3807#0" expanded="false" />
+            <element signature="e#3956#4196#0" expanded="false" />
+            <element signature="e#4311#4461#0" expanded="false" />
+            <element signature="e#4647#5882#0" expanded="false" />
+            <element signature="e#5884#5920#0" expanded="false" />
+            <element signature="e#5998#6260#0" expanded="false" />
+            <element signature="e#6551#6796#0" expanded="false" />
+            <element signature="e#6920#7184#0" expanded="false" />
+            <element signature="e#7262#8654#0" expanded="false" />
+            <element signature="e#8775#9589#0" expanded="false" />
+            <element signature="e#9725#10637#0" expanded="false" />
+            <element signature="e#10819#11757#0" expanded="false" />
+            <element signature="e#12099#14198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syllables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup.py" />
+    <entry file="file://$PROJECT_DIR$/Result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="68" lean-forward="true" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_skeleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#979#1327#0" expanded="false" />
+            <element signature="e#1900#2041#0" expanded="false" />
+            <element signature="e#2130#2338#0" expanded="false" />
+            <element signature="e#2340#2380#0" expanded="false" />
+            <element signature="e#2469#2809#0" expanded="false" />
+            <element signature="e#2922#3045#0" expanded="false" />
+            <element signature="e#3109#3545#0" expanded="false" />
+            <element signature="e#3673#3807#0" expanded="false" />
+            <element signature="e#3956#4196#0" expanded="false" />
+            <element signature="e#4311#4461#0" expanded="false" />
+            <element signature="e#4647#5882#0" expanded="false" />
+            <element signature="e#5884#5920#0" expanded="false" />
+            <element signature="e#5998#6260#0" expanded="false" />
+            <element signature="e#6551#6796#0" expanded="false" />
+            <element signature="e#6920#7184#0" expanded="false" />
+            <element signature="e#7262#8654#0" expanded="false" />
+            <element signature="e#8775#9589#0" expanded="false" />
+            <element signature="e#9725#10637#0" expanded="false" />
+            <element signature="e#10819#11757#0" expanded="false" />
+            <element signature="e#12099#14198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup.py" />
+    <entry file="file://$PROJECT_DIR$/Result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="68" lean-forward="true" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_skeleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13746">
+          <caret line="474" column="34" lean-forward="true" selection-start-line="474" selection-start-column="34" selection-end-line="474" selection-end-column="34" />
+          <folding>
+            <element signature="e#979#1327#0" expanded="false" />
+            <element signature="e#1900#2041#0" expanded="false" />
+            <element signature="e#2130#2338#0" expanded="false" />
+            <element signature="e#2340#2380#0" expanded="false" />
+            <element signature="e#2469#2809#0" expanded="false" />
+            <element signature="e#2922#3045#0" expanded="false" />
+            <element signature="e#3109#3545#0" expanded="false" />
+            <element signature="e#3673#3807#0" expanded="false" />
+            <element signature="e#3956#4196#0" expanded="false" />
+            <element signature="e#4311#4461#0" expanded="false" />
+            <element signature="e#4647#5882#0" expanded="false" />
+            <element signature="e#5884#5920#0" expanded="false" />
+            <element signature="e#5998#6260#0" expanded="false" />
+            <element signature="e#6551#6796#0" expanded="false" />
+            <element signature="e#6920#7184#0" expanded="false" />
+            <element signature="e#7262#8654#0" expanded="false" />
+            <element signature="e#8775#9589#0" expanded="false" />
+            <element signature="e#9725#10637#0" expanded="false" />
+            <element signature="e#10819#11757#0" expanded="false" />
+            <element signature="e#12099#14198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup.py" />
+    <entry file="file://$PROJECT_DIR$/Result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syllables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_skeleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12006">
+          <caret line="414" column="88" lean-forward="true" selection-start-line="409" selection-start-column="4" selection-end-line="414" selection-end-column="88" />
+          <folding>
+            <element signature="e#979#1327#0" expanded="false" />
+            <element signature="e#1900#2041#0" expanded="false" />
+            <element signature="e#2130#2338#0" expanded="false" />
+            <element signature="e#2340#2380#0" expanded="false" />
+            <element signature="e#2469#2809#0" expanded="false" />
+            <element signature="e#2922#3045#0" expanded="false" />
+            <element signature="e#3109#3545#0" expanded="false" />
+            <element signature="e#3673#3807#0" expanded="false" />
+            <element signature="e#3956#4196#0" expanded="false" />
+            <element signature="e#4311#4461#0" expanded="false" />
+            <element signature="e#4647#5882#0" expanded="false" />
+            <element signature="e#5884#5920#0" expanded="false" />
+            <element signature="e#5998#6260#0" expanded="false" />
+            <element signature="e#6551#6796#0" expanded="false" />
+            <element signature="e#6920#7184#0" expanded="false" />
+            <element signature="e#7262#8654#0" expanded="false" />
+            <element signature="e#8775#9589#0" expanded="false" />
+            <element signature="e#9725#10637#0" expanded="false" />
+            <element signature="e#10819#11757#0" expanded="false" />
+            <element signature="e#12099#14198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syllables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_skeleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7540">
+          <caret line="260" column="0" lean-forward="true" selection-start-line="260" selection-start-column="0" selection-end-line="260" selection-end-column="0" />
+          <folding>
+            <element signature="e#979#1327#0" expanded="false" />
+            <element signature="e#1900#2041#0" expanded="false" />
+            <element signature="e#2130#2338#0" expanded="false" />
+            <element signature="e#2340#2380#0" expanded="false" />
+            <element signature="e#2469#2809#0" expanded="false" />
+            <element signature="e#2922#3045#0" expanded="false" />
+            <element signature="e#3109#3545#0" expanded="false" />
+            <element signature="e#3673#3807#0" expanded="false" />
+            <element signature="e#3956#4196#0" expanded="false" />
+            <element signature="e#4311#4461#0" expanded="false" />
+            <element signature="e#4647#5882#0" expanded="false" />
+            <element signature="e#5884#5920#0" expanded="false" />
+            <element signature="e#5998#6260#0" expanded="false" />
+            <element signature="e#6551#6796#0" expanded="false" />
+            <element signature="e#6920#7184#0" expanded="false" />
+            <element signature="e#7262#8654#0" expanded="false" />
+            <element signature="e#8775#9589#0" expanded="false" />
+            <element signature="e#9725#10637#0" expanded="false" />
+            <element signature="e#10819#11757#0" expanded="false" />
+            <element signature="e#12099#14198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syllables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_skeleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#979#1327#0" expanded="false" />
+            <element signature="e#1900#2041#0" expanded="false" />
+            <element signature="e#2130#2338#0" expanded="false" />
+            <element signature="e#2340#2380#0" expanded="false" />
+            <element signature="e#2469#2809#0" expanded="false" />
+            <element signature="e#2922#3045#0" expanded="false" />
+            <element signature="e#3109#3545#0" expanded="false" />
+            <element signature="e#3673#3807#0" expanded="false" />
+            <element signature="e#3956#4196#0" expanded="false" />
+            <element signature="e#4311#4461#0" expanded="false" />
+            <element signature="e#4647#5882#0" expanded="false" />
+            <element signature="e#5884#5920#0" expanded="false" />
+            <element signature="e#5998#6260#0" expanded="false" />
+            <element signature="e#6551#6796#0" expanded="false" />
+            <element signature="e#6920#7184#0" expanded="false" />
+            <element signature="e#7262#8654#0" expanded="false" />
+            <element signature="e#8775#9589#0" expanded="false" />
+            <element signature="e#9725#10637#0" expanded="false" />
+            <element signature="e#10819#11757#0" expanded="false" />
+            <element signature="e#12099#14198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syllables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_skeleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5945">
+          <caret line="205" column="42" lean-forward="false" selection-start-line="205" selection-start-column="42" selection-end-line="205" selection-end-column="42" />
+          <folding>
+            <element signature="e#979#1327#0" expanded="false" />
+            <element signature="e#1900#2041#0" expanded="false" />
+            <element signature="e#2130#2338#0" expanded="false" />
+            <element signature="e#2340#2380#0" expanded="false" />
+            <element signature="e#2469#2809#0" expanded="false" />
+            <element signature="e#2922#3045#0" expanded="false" />
+            <element signature="e#3109#3545#0" expanded="false" />
+            <element signature="e#3673#3807#0" expanded="false" />
+            <element signature="e#3956#4196#0" expanded="false" />
+            <element signature="e#4311#4461#0" expanded="false" />
+            <element signature="e#4647#5882#0" expanded="false" />
+            <element signature="e#5884#5920#0" expanded="false" />
+            <element signature="e#5998#6260#0" expanded="false" />
+            <element signature="e#6551#6796#0" expanded="false" />
+            <element signature="e#6920#7184#0" expanded="false" />
+            <element signature="e#7262#8654#0" expanded="false" />
+            <element signature="e#8775#9589#0" expanded="false" />
+            <element signature="e#9725#10637#0" expanded="false" />
+            <element signature="e#10819#11757#0" expanded="false" />
+            <element signature="e#12099#14198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syllables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_skeleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5133">
+          <caret line="177" column="19" lean-forward="false" selection-start-line="177" selection-start-column="19" selection-end-line="177" selection-end-column="19" />
+          <folding>
+            <element signature="e#979#1327#0" expanded="false" />
+            <element signature="e#1900#2041#0" expanded="false" />
+            <element signature="e#2130#2338#0" expanded="false" />
+            <element signature="e#2340#2380#0" expanded="false" />
+            <element signature="e#2469#2809#0" expanded="false" />
+            <element signature="e#2922#3045#0" expanded="false" />
+            <element signature="e#3109#3545#0" expanded="false" />
+            <element signature="e#3673#3807#0" expanded="false" />
+            <element signature="e#3956#4196#0" expanded="false" />
+            <element signature="e#4311#4461#0" expanded="false" />
+            <element signature="e#4647#5882#0" expanded="false" />
+            <element signature="e#5884#5920#0" expanded="false" />
+            <element signature="e#5998#6260#0" expanded="false" />
+            <element signature="e#6551#6796#0" expanded="false" />
+            <element signature="e#6920#7184#0" expanded="false" />
+            <element signature="e#7262#8654#0" expanded="false" />
+            <element signature="e#8775#9589#0" expanded="false" />
+            <element signature="e#9725#10637#0" expanded="false" />
+            <element signature="e#10819#11757#0" expanded="false" />
+            <element signature="e#12099#14198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python36/Lib/codecs.py" />
+    <entry file="file://D:/自己的杂物/Graduate/CS591 W1/Assignment1/assignment1/assignment1/hw2_skeleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-580">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/tune.py" />
+    <entry file="file://$PROJECT_DIR$/backup.py" />
+    <entry file="file://$PROJECT_DIR$/../../Python36/Lib/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="491" column="0" lean-forward="false" selection-start-line="491" selection-start-column="0" selection-end-line="491" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python36/Lib/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="526" column="0" lean-forward="false" selection-start-line="526" selection-start-column="0" selection-end-line="526" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python36/Lib/site-packages/sklearn/svm/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="575" column="0" lean-forward="false" selection-start-line="575" selection-start-column="0" selection-end-line="575" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python36/Lib/site-packages/numpy/lib/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="368" column="0" lean-forward="false" selection-start-line="368" selection-start-column="0" selection-end-line="368" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_labels_rf.txt" />
+    <entry file="file://$PROJECT_DIR$/test_labels.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28797">
+          <caret line="993" column="1" lean-forward="true" selection-start-line="993" selection-start-column="1" selection-end-line="993" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syllables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python36/Lib/site-packages/sklearn/tree/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="387" column="0" lean-forward="false" selection-start-line="387" selection-start-column="0" selection-end-line="387" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python36/Lib/site-packages/sklearn/ensemble/forest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="361" column="0" lean-forward="false" selection-start-line="361" selection-start-column="0" selection-end-line="361" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/新建文本文档.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1015">
+          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_skeleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3364">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#979#1327#0" expanded="false" />
+            <element signature="e#1900#2041#0" expanded="false" />
+            <element signature="e#2130#2338#0" expanded="false" />
+            <element signature="e#2340#2380#0" expanded="false" />
+            <element signature="e#2469#2809#0" expanded="false" />
+            <element signature="e#2922#3045#0" expanded="false" />
+            <element signature="e#3109#3545#0" expanded="false" />
+            <element signature="e#3673#3807#0" expanded="false" />
+            <element signature="e#3956#4196#0" expanded="false" />
+            <element signature="e#4311#4461#0" expanded="false" />
+            <element signature="e#4647#5882#0" expanded="false" />
+            <element signature="e#5884#5920#0" expanded="false" />
+            <element signature="e#5998#6260#0" expanded="false" />
+            <element signature="e#6551#6796#0" expanded="false" />
+            <element signature="e#6920#7184#0" expanded="false" />
+            <element signature="e#7262#8654#0" expanded="false" />
+            <element signature="e#8775#9589#0" expanded="false" />
+            <element signature="e#9725#10637#0" expanded="false" />
+            <element signature="e#10819#11757#0" expanded="false" />
+            <element signature="e#12099#14198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
